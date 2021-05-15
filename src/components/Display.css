@@ -1,0 +1,13 @@
+.display{
+    grid-column: span 4;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 20px;
+    font-size: 3rem;
+    overflow: hidden;
+    color:#343434;
+    font-weight: 400;
+  
+
+}
