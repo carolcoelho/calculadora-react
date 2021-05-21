@@ -40,3 +40,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 737f059c44ea17dbbe0df899f1ed770ac45a2f24
